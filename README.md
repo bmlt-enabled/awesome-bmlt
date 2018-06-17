@@ -14,10 +14,10 @@
   - [bread](https://github.com/radius314/bread.git) - allows for the creation of a meeting schedule from a BMLT server.
 
 - Mobile Apps
-  - [BMLT NA Meeting Search](https://itunes.apple.com/us/app/bmlt-na-meeting-search/id1278671593) - Find NA Meetings Worldwide.
-  - [Quick NA Meeting Finder](https://itunes.apple.com/us/app/quick-na-meeting-finder/id1195365712) - Find Nearby NA Meetings.
-  - [NA Meeting List Administrator](https://itunes.apple.com/us/app/na-meeting-list-administrator/id1198601446) - Easily Edit Your Meeting List.
-  - [BMLT Search (Unreleased)](https://play.google.com/store/apps/details?id=ie.nasouth.bmltsearch&hl=en_US) - Search for NA Meetings in the BMLT system.
+  - [BMLT NA Meeting Search](https://itunes.apple.com/us/app/bmlt-na-meeting-search/id1278671593) - (iOS) Find NA Meetings Worldwide.
+  - [Quick NA Meeting Finder](https://itunes.apple.com/us/app/quick-na-meeting-finder/id1195365712) - (iOS) Find Nearby NA Meetings.
+  - [NA Meeting List Administrator](https://itunes.apple.com/us/app/na-meeting-list-administrator/id1198601446) - (iOS) Easily Edit Your Meeting List.
+  - [BMLT Search (Unreleased)](https://play.google.com/store/apps/details?id=ie.nasouth.bmltsearch&hl=en_US) - (android) Search for NA Meetings in the BMLT system.
 
 - Other Tools
   - [yap](https://github.com/radius314/yap.git) - Find meetings or someone to talk to over the phone leveraging a BMLT root server.
@@ -31,8 +31,12 @@
 
 ## Mobile Apps
 
-- [NACC](https://itunes.apple.com/us/app/nacc/id452299196) - Calculate Your Cleantime
-- [An Excellent Countdown Timer](https://itunes.apple.com/us/app/an-excellent-countdown-timer/id1244827875) - A Timer for Public Speakers.
+- [NAWS Meeting Search](https://itunes.apple.com/us/app/na-meeting-search/id627643748) - (iOS) NA Meeting Search
+- [NAWS Meeting Search](https://play.google.com/store/apps/details?id=org.na.naapp&hl=en_US) - (android) NA Meeting Search
+- [NAWS NA Recovery Companion](https://itunes.apple.com/us/app/na-recovery-companion/id1067941286) - (iOS) NA Recovery Companion App
+- [NAWS NA Recovery Companion](https://play.google.com/store/apps/details?id=com.ionicframework.myapp349179) - (android) NA Recovery Companion App
+- [NACC](https://itunes.apple.com/us/app/nacc/id452299196) - (iOS) Calculate Your Cleantime
+- [An Excellent Countdown Timer](https://itunes.apple.com/us/app/an-excellent-countdown-timer/id1244827875) - (iOS) A Timer for Public Speakers.
 
 ## Websites
 
