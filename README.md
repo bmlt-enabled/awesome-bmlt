@@ -23,6 +23,7 @@
   - [yap](https://github.com/radius314/yap.git) - Find meetings or someone to talk to over the phone leveraging a BMLT root server.
   - [bmlt-notify-php](https://github.com/pjaudiomv/bmlt-notify-php.git) - sends an email of changes in a BMLT server, to be run as CRON job.
   - [bmlt-portal](https://github.com/pjaudiomv/bmlt-portal.git) - offers easy access to meeting changes in a root server as well as proof reports.
+  - [bmlt-geo-patch](https://github.com/radius314/bmlt-geo-patch.git) - tool to help patch up any potential bad geocoding in your bmlt server.
 
 ## Wordpress Plugins
 
