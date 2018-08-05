@@ -11,7 +11,7 @@
   - [Tabbed UI](https://wordpress.org/plugins/bmlt-tabbed-ui/) - Display BMLT information on a Wordpress site with tabbed interface, makes use of jQuery.
 
 - Meeting List Generators
-  - [bread](https://github.com/radius314/bread.git) - allows for the creation of a meeting schedule from a BMLT server.
+  - [bread](https://wordpress.org/plugins/bread/) - allows for the creation of a meeting schedule from a BMLT server.
 
 - Mobile Apps
   - [BMLT NA Meeting Search](https://itunes.apple.com/us/app/bmlt-na-meeting-search/id1278671593) - (iOS) Find NA Meetings Worldwide.
@@ -21,9 +21,11 @@
 
 - Other Tools
   - [yap](https://github.com/radius314/yap.git) - Find meetings or someone to talk to over the phone leveraging a BMLT root server.
+  - [yap-fbmessenger-bot](https://github.com/radius314/lettuce.git) - Query a Yap instance from a Facebook Messenger bot.
   - [bmlt-notify-php](https://github.com/pjaudiomv/bmlt-notify-php.git) - sends an email of changes in a BMLT server, to be run as CRON job.
   - [bmlt-portal](https://github.com/pjaudiomv/bmlt-portal.git) - offers easy access to meeting changes in a root server as well as proof reports.
   - [bmlt-geo-patch](https://github.com/radius314/bmlt-geo-patch.git) - tool to help patch up any potential bad geocoding in your bmlt server.
+  - [lettuce](https://github.com/radius314/lettuce.git) - lettuce can merge one BMLT root server into another.
 
 ## Wordpress Plugins
 
@@ -42,3 +44,5 @@
 ## Websites
 
  - [Do I have the BMLT?](https://www.doihavethebmlt.org/) - Website that determines weather the BMLT is being used in your location.
+ - [Tomato Server URL](https://tomato.na-bmlt.org/main_server/) - The URL for tomato server.
+ 
