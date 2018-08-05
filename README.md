@@ -44,5 +44,6 @@
 ## Websites
 
  - [Do I have the BMLT?](https://www.doihavethebmlt.org/) - Website that determines weather the BMLT is being used in your location.
- - [Tomato Server URL](https://tomato.na-bmlt.org/main_server/) - The URL for tomato server.
+ - [Tomato Server](https://tomato.na-bmlt.org/main_server/) - The URL for tomato server.
+ - [Semantic Workshop](https://bmlt.magshare.net/workshop/) - BMLT Semantic Workshop
  
