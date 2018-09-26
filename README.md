@@ -14,10 +14,11 @@
   - [bread](https://wordpress.org/plugins/bread/) - allows for the creation of a meeting schedule from a BMLT server.
 
 - Mobile Apps
-  - [BMLT NA Meeting Search](https://itunes.apple.com/us/app/bmlt-na-meeting-search/id1278671593) - (iOS) Find NA Meetings Worldwide.
-  - [Quick NA Meeting Finder](https://itunes.apple.com/us/app/quick-na-meeting-finder/id1195365712) - (iOS) Find Nearby NA Meetings.
-  - [NA Meeting List Administrator](https://itunes.apple.com/us/app/na-meeting-list-administrator/id1198601446) - (iOS) Easily Edit Your Meeting List.
-  - [BMLT Search (Unreleased)](https://play.google.com/store/apps/details?id=ie.nasouth.bmltsearch&hl=en_US) - (android) Search for NA Meetings in the BMLT system.
+  - [BMLT NA Meeting Search](https://itunes.apple.com/us/app/bmlt-na-meeting-search/id1278671593) - (iOS) Find NA Meetings Worldwide (Chris M).
+  - [Quick NA Meeting Finder](https://itunes.apple.com/us/app/quick-na-meeting-finder/id1195365712) - (iOS) Find Nearby NA Meetings (Chris M).
+  - [NA Meeting List Administrator](https://itunes.apple.com/us/app/na-meeting-list-administrator/id1198601446) - (iOS) Easily Edit Your Meeting List (Chris M).
+  - [BMLT Search](https://play.google.com/store/apps/details?id=ie.nasouth.bmltsearch&hl=en_US) - (android) Search for NA Meetings in the BMLT system (Paul N).
+  - [BMLT Search](https://itunes.apple.com/us/app/bmlt-search/id1370165741?mt=8) - (iOS) Search for NA Meetings in the BMLT system (Paul N).
 
 - Other Tools
   - [yap](https://github.com/radius314/yap.git) - Find meetings or someone to talk to over the phone leveraging a BMLT root server.
