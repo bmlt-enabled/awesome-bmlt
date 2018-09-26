@@ -8,7 +8,7 @@
 
 - Satellites
   - [Wordpress Plugin](https://wordpress.org/plugins/bmlt-wordpress-satellite-plugin/) - Display BMLT information on a Wordpress site a couple of different ways.
-  - [Tabbed UI](https://wordpress.org/plugins/bmlt-tabbed-ui/) - Display BMLT information on a Wordpress site with tabbed interface, makes use of jQuery.
+  - [crouton](https://wordpress.org/plugins/crouton/) - Display BMLT information on a Wordpress site with tabbed interface, makes use of jQuery.
 
 - Meeting List Generators
   - [bread](https://wordpress.org/plugins/bread/) - allows for the creation of a meeting schedule from a BMLT server.
