@@ -9,7 +9,9 @@
 - Satellites
   - [Wordpress Plugin](https://wordpress.org/plugins/bmlt-wordpress-satellite-plugin/) - Display BMLT information on a Wordpress site a couple of different ways.
   - [crouton](https://wordpress.org/plugins/crouton/) - Display BMLT information on a Wordpress site with tabbed interface, makes use of jQuery.
-
+  - [Drupal Module](https://bmlt.app/satellites/cms-plugins/drupal/) - Display BMLT information on a Drupal site, ver 6 & 7 only.
+  - [Basic BMLT Satellite](https://bmlt.app/satellites/standalone/) - Display BMLT information on a site with php, for non CMS websites.
+  
 - Meeting List Generators
   - [bread](https://wordpress.org/plugins/bread/) - allows for the creation of a meeting schedule from a BMLT server.
 
@@ -26,12 +28,20 @@
   - [bmlt-notify-php](https://github.com/pjaudiomv/bmlt-notify-php.git) - sends an email of changes in a BMLT server, to be run as CRON job.
   - [bmlt-portal](https://github.com/pjaudiomv/bmlt-portal.git) - offers easy access to meeting changes in a root server as well as proof reports.
   - [bmlt-geo-patch](https://github.com/radius314/bmlt-geo-patch.git) - tool to help patch up any potential bad geocoding in your bmlt server.
+  - [bmlt-zip-county-geocode](https://github.com/pjaudiomv/bmlt-zip-county-geocode.git) - Tool to help geocode zipcode and county data in your bmlt server.
   - [lettuce](https://github.com/radius314/lettuce.git) - lettuce can merge one BMLT root server into another.
+  - [BMLTTally](https://github.com/LittleGreenViper/BMLTTally.git) - This is a simple PHP and JavaScript app for generating a "live" tally of all known worldwide BMLT servers.
+  - [tomato-tally](https://github.com/pjaudiomv/tomato-tally.git) - This is similar to the BMLTTally but only uses tomato as its endpoint.
+  - [pdfstuff](https://github.com/LittleGreenViper/pdfstuff.git) - Generates meeting list pdfs using fpdf.
+  - [apikey-checker](https://github.com/pjaudiomv/apikey-checker.git) - Attempts to validate a Google API Key.
+  - [BMLT slack bot](https://github.com/radius314/fortyseven.git) - Chat bot for the BMLT slack group.
 
 ## Wordpress Plugins
 
 - [NACC](https://wordpress.org/plugins/nacc-wordpress-plugin/) - N.A. Cleantime Calculator
 - [Fetch-JFT](https://wordpress.org/plugins/fetch-jft/) - Plugin that pulls the Just For Today from jftna.org and puts it on your site.
+- [List Locations BMLT](https://github.com/pjaudiomv/list-locations-bmlt.git) - List Locations BMLT is a plugin that returns all unique towns or counties from your BMLT server for a given service body on your site.
+- [BMLT Versions](https://github.com/pjaudiomv/bmlt-versions.git) - Displays download links and versions for the latest BMLT Releases.
 
 ## Mobile Apps
 
@@ -44,6 +54,9 @@
 
 ## Websites
 
+ - [BMLT](https://bmlt.app/) - Offical website of the BMLT.
+ - [BMLT Facebook Group](https://www.facebook.com/groups/bmltapp/) - Official facebook group of the BMLT.
+ - [BMLT Slack Group](https://bmlt.slack.com/) - Official Slack group of the BMLT.
  - [Do I have the BMLT?](https://www.doihavethebmlt.org/) - Website that determines weather the BMLT is being used in your location.
  - [Tomato Server](https://tomato.na-bmlt.org/main_server/) - The URL for tomato server.
  - [Semantic Workshop](https://bmlt.magshare.net/workshop/) - BMLT Semantic Workshop
