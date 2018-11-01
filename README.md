@@ -40,7 +40,8 @@
 
 - [NACC](https://wordpress.org/plugins/nacc-wordpress-plugin/) - N.A. Cleantime Calculator
 - [Fetch-JFT](https://wordpress.org/plugins/fetch-jft/) - Plugin that pulls the Just For Today from jftna.org and puts it on your site.
-- [List Locations BMLT](https://github.com/pjaudiomv/list-locations-bmlt.git) - List Locations BMLT is a plugin that returns all unique towns or counties from your BMLT server for a given service body on your site.
+- [List Locations BMLT](https://wordpress.org/plugins/list-locations-bmlt/) - List Locations BMLT is a plugin that returns all unique towns or counties from your BMLT server for a given service body on your site.
+- [Upcoming Meetings BMLT](https://wordpress.org/plugins/upcoming-meetings-bmlt/) - Upcoming Meetings BMLT is a plugin that displays the next ‘N’ number of meetings from the current time on your page or in a widget using the upcoming_meetings shortcode.
 - [BMLT Versions](https://github.com/pjaudiomv/bmlt-versions.git) - Displays download links and versions for the latest BMLT Releases.
 
 ## Mobile Apps
