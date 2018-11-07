@@ -34,6 +34,7 @@
   - [tomato-tally](https://github.com/pjaudiomv/tomato-tally.git) - This is similar to the BMLTTally but only uses tomato as its endpoint.
   - [pdfstuff](https://github.com/LittleGreenViper/pdfstuff.git) - Generates meeting list pdfs using fpdf.
   - [apikey-checker](https://github.com/pjaudiomv/apikey-checker.git) - Attempts to validate a Google API Key.
+  - [last-user-edit-bmlt](https://github.com/pjaudiomv/last-user-edit-bmlt.git) - Displays the last edit by every user in a BMLT server.
   - [BMLT slack bot](https://github.com/radius314/fortyseven.git) - Chat bot for the BMLT slack group.
 
 ## Wordpress Plugins
