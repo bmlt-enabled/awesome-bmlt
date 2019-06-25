@@ -36,6 +36,9 @@
   - [apikey-checker](https://github.com/pjaudiomv/apikey-checker.git) - Attempts to validate a Google API Key.
   - [last-user-edit-bmlt](https://github.com/bmlt-enabled/last-user-edit-bmlt.git) - Displays the last edit by every user in a BMLT server.
   - [BMLT slack bot](https://github.com/bmlt-enabled/fortyseven.git) - Chat bot for the BMLT slack group.
+ 
+- Scripts
+  - [Coverage Query](https://codepen.io/radius314/pen/Jqgbyg) - Shows coverage by service body for a given query, useful for looking up which service bodies cover a state/province for example.
 
 ## Wordpress Plugins
 
